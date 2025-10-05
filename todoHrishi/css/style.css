@@ -1,6 +1,6 @@
 /* styling for todo app  */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
     background: linear-gradient(
         45deg, 
         #1a1a1a 0%, 
